@@ -2,6 +2,8 @@
 
 A Streamlit web app that uses an LSTM (Long Short-Term Memory) neural network to predict future stock prices based on historical data from Alpha Vantage.
 
+🌐 **Live Demo**: [Click here to try the app](https://stock-prediction-lstm-app-q9jmjqxrahbywhgikkptbq.streamlit.app/)
+
 ---
 
 ## 🚀 Features
@@ -33,9 +35,11 @@ A Streamlit web app that uses an LSTM (Long Short-Term Memory) neural network to
 ```
 
 .
-├── app.py              # Main Streamlit app
-├── requirements.txt    # Python dependencies
-└── README.md           # This file
+├── app.py                  # Main Streamlit app
+├── requirements.txt        # Python dependencies
+├── README.md               # This file
+├── Actual Stock price.png  # Chart of actual stock prices
+└── Predicted Stock price.png # Chart of LSTM predicted prices
 
 ````
 
@@ -85,11 +89,11 @@ streamlit run app.py
 
 ### 📊 Actual Stock Price
 
-![Actual Stock Price](./ActualStockprice.png)
+![Actual Stock Price](./Actual%20Stock%20price.png)
 
 ### 🔮 Predicted Stock Price using LSTM
 
-![Predicted Stock Price](./PredictedStockPrice.png)
+![Predicted Stock Price](./Predicted%20Stock%20price.png)
 
 ---
 
