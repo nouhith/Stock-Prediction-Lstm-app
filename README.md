@@ -85,11 +85,11 @@ streamlit run app.py
 
 ### 📊 Actual Stock Price
 
-![Actual Stock Image](Actual%20Stock%20Image.png)
+![Actual Stock Price](./ActualStockprice.png)
 
-### 🔮 Predict Stock Image
+### 🔮 Predicted Stock Price using LSTM
 
-![Predict Stock Image](Predict%20Stock%20Image.png)
+![Predicted Stock Price](./PredictedStockPrice.png)
 
 ---
 
@@ -105,5 +105,3 @@ Developed by **Nouhith**.
 Feel free to open an issue or contact me if you need help.
 
 ```
-
-
