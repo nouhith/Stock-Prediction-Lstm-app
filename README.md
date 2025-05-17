@@ -93,7 +93,7 @@ streamlit run app.py
 
 ### 🔮 Predicted Stock Price using LSTM
 
-![Predicted Stock Price](./Predicted%20Stock%20price.png)
+![Predicted Stock Price](./Predicted%20Stock%20Price.png)
 
 ---
 
