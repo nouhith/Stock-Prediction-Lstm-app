@@ -108,4 +108,4 @@ This project is licensed under the MIT License.
 Developed by **Nouhith**.
 Feel free to open an issue or contact me if you need help.
 
-```
+---
